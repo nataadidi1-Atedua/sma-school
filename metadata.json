@@ -1,0 +1,7 @@
+{
+  "name": "SchoolManagerSMA",
+  "description": "A comprehensive school management platform for handling students, staff, finances, schedules, and AI-driven academic insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
